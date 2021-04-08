@@ -1,2 +1,2 @@
 # core
-common features
+Common features
